@@ -1,5 +1,4 @@
-# Solana-Mint-Token
-
+## Solana-Mint-Token
 ## :dart: $\textcolor{gray}{In\ this\ project\ you\ have\ to\ know:}$ 
 
 <div>
