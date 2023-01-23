@@ -1,4 +1,4 @@
-# solana-npx-client-template
+
 ## :dart: $\textcolor{gray}{In\ this\ project\ you\ have\ to\ know:}$ 
 
 <div>
